@@ -1,0 +1,7 @@
+################ INSTRUCTION ###############
+
+I have done Python code in Jupyter Notebook, so you can use 
+Jupyter notebook to run the code.
+
+
+###############   THANK YOU #################
